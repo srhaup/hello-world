@@ -1,2 +1,2 @@
 # hello-world
-Ideas
+This repository is for my ideas.
